@@ -25,7 +25,7 @@ SECRET_KEY = 'f_dw$%v_4t%w3cody#=ulc45@w^e6^3p+n=0(j+rx%b96!+q2w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nachodev-django-test.azurewebsites.net']
 
 
 # Application definition
